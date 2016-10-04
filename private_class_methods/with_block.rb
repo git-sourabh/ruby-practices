@@ -7,10 +7,6 @@ class PrivateClassMethod
   end
 end
 
-# Try to call private method
-# PrivateClassMethod.private_method
-# => private class method
-
 PrivateClassMethod.private_method
 # -------------------------------------
 # 2nd way (self class block)
